@@ -6,8 +6,8 @@ window.addEventListener("DOMContentLoaded", function () {
         gyroControls: true,
         color: 0xffffff,
         backgroundColor: 0x000000,
-        points: 12.00,
+        points: 7.00,
         maxDistance: 30.00,
-        spacing: 20.00
+        spacing: 25.00
     });
 });
